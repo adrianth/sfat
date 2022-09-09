@@ -1,12 +1,16 @@
-* <label>Anunț important</label>  
-Cu mare bucurie, va anuntam ca duminica 7 iunie 2020, la praznicul Pogorarii Sf. Duh, cu binecuvantarea IPS Nathaniel, ne vom intoarce in biserica noastra. Acest lucru se va face intr-un cadru restrans pentru inceput, si bineinteles, respectand regulile stricte care se impun in continuare.
-Cei care vor dori sa participe la Sf. Liturghie, sunt rugati sa ia legatura in prealabil cu Fr. Daniel (872-985-3798) pentru A SE INSCRIE pe listele care le vom pregati pentru fiecare duminica si zi de sarbatoare. Veti primi detalii si cu privire conditiile care trebuie indeplinite (cum ne asezam in biserica, purtarea obligatorie a mastii pe care fiecare O VA ADUCE DE ACASA, cum ne impartasim, etc).
-Va rugam sa consultati 
-<a href="{{ site.baseurl }}/download/DispozițiePrivindRusaliile.pdf" target="_blank" rel="nofollow"><strong>noile directive</strong></a>
-(<a href="{{ site.baseurl }}/download/DirectiveLetterheadPentecost.pdf" target="_blank" rel="nofollow"><strong>varianta in limba engleza</strong></a>). 
-Cei care doriti sa va spovediti in vederea impartasirii cu Trupul si Sangele Domnului, sunteti rugati de asemenea, sa luati legatura cu Fr. Daniel. Cei care veti veni la biserica insotiti de copilasi, sunteti rugati sa ii tineti langa dumneavoastra pe durata slujbei si sa pastrati linistea- camera copiilor va ramane inchisa.
-Credinciosii care vor ramane acasa, vor avea in continuare posibilitatea de a urmari slujbele <a href="https://www.facebook.com/naperville.mission"><strong>LIVE</strong></a> pe pagina de Facebook a Bisericii noastre.
+* <label>PICNIC DE TOAMNA</label>
+Dragi credinciosi si prieteni ai Bisericii noastre,
+Va invitam in data de 25 SEPTEMBRIE 2022, imediat dupa Sf. Liturghie, sa luati parte la PICNICUL DE TOAMNA al parohiei noastre. Ne vom stradui sa va incantam cu inca un eveniment frumos de care sa se bucure toti invitatii, indiferent de varsta.
+Puteti afla mai multe detalii despre cum puteti participa ca si VENDOR / SPONSOR la acest eveniment, sunand la numarul de telefon 773-501-5826 (D-na. Mihaela Pantiru).
+Bineinteles, ne bazam pe voluntari la toate evenimentele –va rugam sa va numarati si dumneavoastra printre ei, inscriindu-va pe aceasta lista.
+Luați-va familia și prietenii, o pătura sau scaunul pentru picnic și veniți sa ne bucuram impreuna!
 Va asteptam cu drag!
+3003 N. EOLA Rd, AURORA, IL, 60502
+
+<p>
+    <img alt="Picnic de Toamna" class="img img-responsive" style="float: left; margin-right: 10px; max-width: 100%; overflow: hidden; width: 250px;" src="{{ site.baseurl }}/img/2022/PicnicToamna.png" />
+</p> 
+
 * <label>Școala Duminicală</label>  
 Scoala Duminicala  isi continua si in aceasta perioada activitatea, chiar daca in alta forma-  online.  Pentru mai multe informatii, sunteti rugati sa sunati la numarul 872-985-3799 (Psa. Cristina). Pentru detalii, folositi <a href="{{ site.baseurl }}/ro/scoala-duminicala.html" target="_blank"><strong>acest link</strong></a>
 * <label>Amazon Smile</label> 
