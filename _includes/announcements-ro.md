@@ -7,7 +7,7 @@ Luați-va familia și prietenii, o pătura sau scaunul pentru picnic și veniți
 Va asteptam cu drag!
 3003 N. EOLA Rd, AURORA, IL, 60502
 <p>
-    <img alt="Picnic de Toamna" class="img img-responsive" style="float: left; margin-right: 10px; max-width: 100%; overflow: hidden; width: 250px;" src="{{ site.baseurl }}/img/PicnicToamna.png" />
+    <img alt="Picnic de Toamna" class="img img-responsive" style="float: left; margin-right: 10px; max-width: 100%; overflow: hidden; width: 250px;" src="{{ site.baseurl }}/img/PicnicToamna.PNG" />
 </p> 
 
 * <label>Școala Duminicală</label>  
