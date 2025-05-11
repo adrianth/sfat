@@ -1,4 +1,4 @@
-* <label>Picnicul Verii</label> Biserica noastră vă invită la Picnicul Verii pe data de **1 iunie 2025** la ora **12pm**. Evenimentul va fi însoțit de un concert live susținut de artista Tania Turtureanu.
+* <label>Picnicul Verii 2025</label> Biserica noastră vă invită la Picnicul Verii **duminică, 1 iunie 2025** la ora **12pm**. Evenimentul va fi însoțit de un concert live susținut de artista Tania Turtureanu.
 <a href="/ro/2025/picnic-vara.html"><img class="img img-responsive" style="margin-bottom: 15px" src="/img/2025/picnic-vara-2025-small.jpg" />
 </a>
 
