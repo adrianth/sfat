@@ -1,6 +1,4 @@
-* <label>Picnicul Verii 2025</label> Biserica noastră vă invită la Picnicul Verii **duminică, 1 iunie 2025** la ora **12pm**. Evenimentul va fi însoțit de un concert live susținut de artista Tania Turtureanu.
-<a href="/ro/2025/picnic-vara.html"><img class="img img-responsive" style="margin-bottom: 15px" src="/img/2025/picnic-vara-2025-small.jpg" />
-</a>
+* <label>Banchet festiv 2025</label> Pe data de 14 decembrie, biserica noastră sărbătorește 13 ani de existență prilej cu care, ca și în anii trecuți, vom organiza un banchet festiv. Sunteți invitați la o după-amiază cu colinde, program artistic și bucate alese, inclusiv ciorbă de pește. Puteți rezerva locuri urmând <a href="https://stathanasiuschurch.us16.list-manage.com/track/click?u=2a2fb3d49ced5c828a660fb10&id=be691bb479&e=60c06ab918">acest link</a>.
 
 * <label>Școala Duminicală</label> Se desfășoară în fiecare duminică între orele 10:30am–12:00pm. Pentru informații, vă rugăm să sunați la numărul 872-985-3799 (Psa. Cristina). Pentru mai multe detalii folosiți <a href="{{ site.baseurl }}/ro/scoala-duminicala.html"><strong>acest link</strong></a>.
 
