@@ -5,3 +5,6 @@ _site
 # Non-Jekyll stuff
 _untracked
 TODO.txt
+/vendor
+.DS_Store
+Thumbs.db
